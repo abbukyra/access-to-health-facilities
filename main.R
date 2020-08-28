@@ -1,8 +1,3 @@
-# Author: Kyra Alyssa Abbu
-# Instructor: Zeda Li
-# Course: STA 3000
-# Description: Final Project
-
 # Installation
 # Uncomment if you have not installed
 # If commented, the RShiny functions crash
