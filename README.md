@@ -1,3 +1,5 @@
 # Access to Mental Health Facilities via Public Transporation in New York City
 
 ### The Metropolitan Transportation Authority New York City allows New York to move 24 hours a day and seven days a week across the boroughs of Manhattan, Brooklyn, Queens, and the Bronx, with an additional MTA Staten Island Railway that links 22 communities. As one of the largest public transportation agencies in the world, the average ridership is 2.4 million in a day in the five boroughs. In lieu of being an epicenter of a pandemic, questions arise regarding access to health facilities. Therefore, an analysis has been conducted to explore and answer these questions. How accessible are health facilities to every New Yorker who relies on public transportation (subway stations and bus stop shelters)? Do the five boroughs have a sufficient number of bus stop shelters compared to health facilities? Is there a relationship between the population size of a zip code and the number of health facilities? How is the number of health facilities in Midtown Manhattan, the center of attraction, different from the median number of health facilities?
+
+### * This is an RShiny App
